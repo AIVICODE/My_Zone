@@ -41,7 +41,7 @@ npm run dev
 ```
 
 ### 4️⃣ Launch 🚀
-Visit [http://localhost:3000](http://localhost:3000) in your browser to begin!
+Visit [http://localhost:8000](http://localhost:3000) in your browser to begin!
 and http://localhost:5173/ for the front!
 
 ---
